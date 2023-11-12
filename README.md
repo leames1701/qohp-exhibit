@@ -1,11 +1,6 @@
-# CollectionBuilder-GH
+# CollectionBuilder-QOHP-GH
 
-A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
-
-- a CSV of collection metadata
-- a folder of JPEG images, PDF documents, MP3s, or links to videos hosted on YouTube or Vimeo
-
-Visit the [demo site](https://collectionbuilder.github.io/collectionbuilder-gh/).
+Testing whether I can recreate the QOHP Exhibit from October 2023 in CollectionBuilder.
 
 ## Build a Digital Collection
 
